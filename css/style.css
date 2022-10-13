@@ -1,0 +1,20 @@
+.all{
+    width: 10px;
+    height: 5px;
+    background-color:#F7F7F7
+    
+}
+.memper , h1{
+   display: none;
+}
+
+
+.cars{
+    background-color: aqua;
+    width: 70%;
+    margin: auto;
+}
+.sup-img{
+    width: 25%;
+    float: left;
+}
